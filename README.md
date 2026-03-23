@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # AI Instagram Post Generator
 
@@ -99,7 +98,4 @@ curl -X POST "http://127.0.0.1:8000/post"
 
 - Latest post preview: [http://127.0.0.1:8000/preview/latest](http://127.0.0.1:8000/preview/latest)
 - Specific preview index example: [http://127.0.0.1:8000/preview/0](http://127.0.0.1:8000/preview/0)
-=======
-# instagram-post-generator
-Automatically Generates a Post based on Topic Provided
->>>>>>> 3e160843457ec66701ed55486f50d4ed11ca84c6
+
